@@ -1,0 +1,17 @@
+﻿Build started 14/08/2012 12:50:55 PM.
+     1>Project "C:\Users\Kayla\Documents\Visual Studio 2012\Projects\UltraGrep\UltraGrep\UltraGrep.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\UltraGrep.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         UltraGrep.vcxproj -> C:\Users\Kayla\Documents\Visual Studio 2012\Projects\UltraGrep\Debug\UltraGrep.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\UltraGrep.unsuccessfulbuild".
+         Touching "Debug\UltraGrep.lastbuildstate".
+     1>Done Building Project "C:\Users\Kayla\Documents\Visual Studio 2012\Projects\UltraGrep\UltraGrep\UltraGrep.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.47
